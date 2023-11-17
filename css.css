@@ -1,0 +1,13 @@
+body{
+    background-color: darkcyan;
+    text-align: center;
+    font-size: 45px;
+}
+button{
+    background-color: blue;
+    padding: 25px; ;
+    border-radius: 20px;
+}
+input{
+    padding: 20px; ;
+}
